@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFEC45F6E",
+    "gateway_ID": "B827EBFFFE4525A8",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 47.410382,
-    "ref_longitude": 8.408920,
-    "ref_altitude": 388,
-    "contact_email": "valentin.wyss@ekz.ch",
-    "description": "TTN"
+    "ref_latitude": 51.9867535,
+    "ref_longitude": 4.320756,
+    "ref_altitude": 0,
+    "contact_email": "rvihoog@gmail.comL",
+    "description": "Buurt Hodenpijl"
   }
 }
